@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rodrigogdcorreia
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... todos os dias aprendendo Delphi 10.4
 - 📫 How to reach me ....017992358262
 
 <!---
